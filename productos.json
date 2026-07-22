@@ -1,0 +1,122 @@
+[
+    {
+        "producto": "Aceite vegetal 1L",
+        "costo": 8500,
+        "stock": 22
+    },
+    {
+        "producto": "Arroz Diana 1kg",
+        "costo": 3000,
+        "stock": 28
+    },
+    {
+        "producto": "Atún Soberana (Aceite)",
+        "costo": 7500,
+        "stock": 20
+    },
+    {
+        "producto": "Azúcar 1kg",
+        "costo": 3000,
+        "stock": 30
+    },
+    {
+        "producto": "burbujet",
+        "costo": 1000,
+        "stock": 40
+    },
+    {
+        "producto": "Café molido 250g",
+        "costo": 12000,
+        "stock": 24
+    },
+    {
+        "producto": "Carne de res 1kg",
+        "costo": 20000,
+        "stock": 15
+    },
+    {
+        "producto": "Cebolla 1kg",
+        "costo": 2800,
+        "stock": 40
+    },
+    {
+        "producto": "Dulces surtidos",
+        "costo": 2000,
+        "stock": 65
+    },
+    {
+        "producto": "Galletas Chocorramo",
+        "costo": 1800,
+        "stock": 79
+    },
+    {
+        "producto": "Harina de trigo 1kg",
+        "costo": 2500,
+        "stock": 42
+    },
+    {
+        "producto": "Huevos docena",
+        "costo": 7000,
+        "stock": 15
+    },
+    {
+        "producto": "Jugo de naranja 1L",
+        "costo": 4500,
+        "stock": 31
+    },
+    {
+        "producto": "Jugo Del Valle 1L",
+        "costo": 4200,
+        "stock": 35
+    },
+    {
+        "producto": "Leche entera 1L",
+        "costo": 4800,
+        "stock": 35
+    },
+    {
+        "producto": "Pan integral",
+        "costo": 3000,
+        "stock": 25
+    },
+    {
+        "producto": "Pasta spaghetti 500g",
+        "costo": 4000,
+        "stock": 50
+    },
+    {
+        "producto": "Peluche Cilan",
+        "costo": 50000,
+        "stock": 8
+    },
+    {
+        "producto": "Queso campesino 500g",
+        "costo": 9500,
+        "stock": 12
+    },
+    {
+        "producto": "Refresco Coca-Cola 2L",
+        "costo": 6000,
+        "stock": 22
+    },
+    {
+        "producto": "Tomate 1kg",
+        "costo": 3500,
+        "stock": 37
+    },
+    {
+        "producto": "Tostacos 250g",
+        "costo": 3500,
+        "stock": 23
+    },
+    {
+        "producto": "Zucaritas (200g)",
+        "costo": 2500,
+        "stock": 35
+    },
+    {
+        "producto": "Bretaña 1.5L",
+        "costo": 4000,
+        "stock": 34
+    }
+]
